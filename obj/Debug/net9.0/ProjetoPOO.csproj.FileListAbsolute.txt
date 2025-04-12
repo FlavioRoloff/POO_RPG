@@ -1,0 +1,14 @@
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.AssemblyInfoInputs.cache
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.AssemblyInfo.cs
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.exe
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.deps.json
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.runtimeconfig.json
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.dll
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.pdb
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.dll
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\refint\ProjetoPOO.dll
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.pdb
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.genruntimeconfig.cache
+D:\Backup\Flavio\1_programming\2_courses\9.DIO\2.GFT_Dotnet\1.CSharp\1.Demos\ProjetoPOO\obj\Debug\net9.0\ref\ProjetoPOO.dll
